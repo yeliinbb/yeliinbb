@@ -21,7 +21,13 @@ Hello, I'm Yelin Bok, a frontend developer!
 - Majored in architecture design at Korea National University of Arts (2021)
 
 <br />
+<div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeliinbb%2F&count_bg=%23EBEBEB&title_bg=%23AFAFAF&icon=github.svg&icon_color=%23E7E7E7&title=TODAY&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
+
+<!--
 <div align="center">
 
 Blog : https://velog.io/@liin/posts  
@@ -32,7 +38,7 @@ Contact : yeliinbok@gmail.com
 </div>
 
   
-<!--
+
 **yeliinbb/yeliinbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
