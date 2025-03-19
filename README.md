@@ -11,6 +11,7 @@ Hello, I'm Yelin Bok, a frontend developer!
 
 
 #### Career :
+- Yune / Frontend developer (2025.01 ~ )
 - Perfitt / Internship, Frontend developer (2024.09 ~ 11)
 
 
