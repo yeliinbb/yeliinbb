@@ -1,5 +1,5 @@
 ## 👋
-Hello, I'm Yelin Bok, a frontend developer!
+Hello, I'm Yeliin working as a Product Engineer!
 
 >
 
@@ -17,9 +17,9 @@ Hello, I'm Yelin Bok, a frontend developer!
 
 
 #### Other Career :
-- Merchandiser (~2023)
-- Brand Director of JITKI (~2023)
-- Majored in architecture design at Korea National University of Arts (2021)
+- Brand Manager of mtl [@mtl_shopncafe](https://www.instagram.com/mtl_shopncafe/) (~ 2023.06)
+- Brand Director of JITKI [@jitki.kr](https://www.instagram.com/jitki.kr/) (~ 2023.12)
+- Majored in Architecture Design at Korea National University of Arts [@karts.official](https://www.instagram.com/karts.official/) (2014 ~ 2021)
 
 <br />
 <div align="center">
